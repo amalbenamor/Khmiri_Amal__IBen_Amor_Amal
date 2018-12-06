@@ -1,0 +1,8 @@
+com/ensi/ilsi/librarycommons/dto/CopyDto.class
+com/ensi/ilsi/librarycommons/utilis/Web.class
+com/ensi/ilsi/librarycommons/dto/BorrowerDto.class
+com/ensi/ilsi/librarycommons/dto/BorrowingDto.class
+com/ensi/ilsi/librarycommons/dto/BookDto.class
+com/ensi/ilsi/librarycommons/dto/AuthorDto.class
+com/ensi/ilsi/librarycommons/domain/AbstractEntity.class
+com/ensi/ilsi/librarycommons/dto/DomainDto.class
